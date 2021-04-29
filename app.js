@@ -4,9 +4,7 @@ const app = express();
 
 //Middlewares
 
-app.use('/posts', () => {
-  console.log('This is middle')
-})
+
 
 // ROUTES
 
