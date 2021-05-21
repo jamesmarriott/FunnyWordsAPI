@@ -64,7 +64,9 @@ So sending a GET request to https://funnywords.herokuapp.com/api/words/44 will j
 ### Issues
 Currently the present and past partciples are missing. Requesting the following ids will return nothing.
 
-| 45     | Verb-PresentPart        | 
+| Sub-ID | Description             |
+| ------ | ----------------------- |
+| 45     | Verb-PresentPart        |
 | 47     | Verb-PastPart           |
 
 
